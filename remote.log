@@ -1,0 +1,1 @@
+425a00ca-0e6c-4f7e-a062-31d1f4c901c9 bucket=powderhouse-atlas-thisisfebo datacenter=US encryption=none exporttree=yes host=s3.amazonaws.com name=atlasS3 port=80 public=yes publicurl=https://s3.amazonaws.com/powderhouse-atlas-thisisfebo/ storageclass=STANDARD type=S3 timestamp=1543267498.48832s
